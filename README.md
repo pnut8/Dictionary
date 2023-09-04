@@ -5,7 +5,7 @@ This [Dictionary](https://dictionary-pnut8.vercel.app/) project is created with 
 
 ## Features
 
-- Basic Dictionary functions such as word definition 
+- Basic Dictionary functions like word definition and searchability
 - Audio Pronounciation of the word 
 
 
